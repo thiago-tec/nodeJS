@@ -29,5 +29,5 @@ console.log(!!(isAtivo = false))
 console.log('para finalizar')
 console.log(!!('' || null || 0 || ' ' || 123))
 
-let nome = ''
+let nome = 'lucas'//apresenta o primeiro verdadeiro
 console.log(nome || 'desconhecido')
