@@ -1,3 +1,3 @@
-## JavaScript 
+Estudos sobre o NodeJS
 
-Aqui irá ficar todos os arquivos básicos aprendidos no JS com a cod3r.
+Tudo que envolver atividades com o node irá se encontrar nesse repositório.
